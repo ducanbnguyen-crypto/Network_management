@@ -82,9 +82,5 @@ Hệ thống sử dụng các kỹ thuật định tuyến và chuyển mạch t
 ## 📌 Ghi chú
 
 - Hệ thống có thể mở rộng thêm nhiều VLAN hoặc tuyến backup khác.
-- Cấu hình đã thử nghiệm thành công trong môi trường mô phỏng và có thể triển khai thực tế với các điều chỉnh phù hợp.
-
----
-
-> 👨‍💻 Tác giả: Phạm Quang Thắng – Sinh viên chuyên ngành Quản trị mạng  
+- Cấu hình đã thử nghiệm thành công trong môi trường mô phỏng và có thể trAnh – Sinh viên chuyên ngành Quản trị mạng  
 > ✉️ Hướng dẫn: Thầy Nguyễn Khánh Tùng – Trường Đại học Điện lực
